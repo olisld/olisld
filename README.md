@@ -1,5 +1,6 @@
-### Hi I'm Oliver and I m' a developper with a big big potential.
-<h1>HI</h1>
+# Hello I'm Olivier Soulard I have some qualities to develop website
+
+I currently working on a project with React JS
 
 <!--
 **olisld/olisld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
